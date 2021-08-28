@@ -1,0 +1,19 @@
+{
+  "cwd": "C:\\Program Files (x86)\\EasyPHP-Devserver-17\\eds-www\\f7",
+  "type": [
+    "web"
+  ],
+  "name": "buddapp",
+  "framework": "core",
+  "template": "single-view",
+  "bundler": "vite",
+  "cssPreProcessor": false,
+  "theming": {
+    "customColor": false,
+    "color": "#007aff",
+    "darkTheme": false,
+    "iconFonts": true,
+    "fillBars": false
+  },
+  "customBuild": false
+}
